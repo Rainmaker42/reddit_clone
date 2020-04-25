@@ -1,6 +1,7 @@
 // src/containers/App/index.js
 
 import React, { Component } from 'react';
+import * as firebase from "firebase"
 
 class App extends Component {
   render() {
